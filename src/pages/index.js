@@ -33,8 +33,7 @@ export default function Home() {
                 className={styles.vercelLogo}
                 width={100}
                 height={24}
-                priority
-              />
+                priority />
             </a>
           </div>
         </div>
